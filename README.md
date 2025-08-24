@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hafizwajahat/CosmiCode-Internship.git](https://github.com/Hafizwajahat/CosmiCode-Internship.git)
 
-- 💬 Ask me about **Python, ML and Deep LeaRNING**
+- 💬 Ask me about **Jupyter, Python, ML and Deep LeaRNING**
 
 - 📄 Know about my experiences [I am currently doing an internship at Cosmic Code in Data Science](I am currently doing an internship at Cosmic Code in Data Science)
 
